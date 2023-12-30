@@ -2,6 +2,7 @@
 Realization of the 15 Puzzle game
 
 ## Deploy link: 
+https://azics.github.io/15-gem/
 
 ### Techs: HTML, CSS, JS
 The "15" puzzle is a sliding puzzle consisting of 15 square tiles numbered 1 to 15 in a frame 4 tiles high by 4 tiles wide, leaving one tile position unoccupied. Tiles in the same row or column of an open position can be moved by sliding them horizontally or vertically, respectively. The goal of the puzzle is to place the tiles in numerical order.
