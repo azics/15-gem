@@ -10,4 +10,5 @@ Half of the starting positions for the n puzzle are impossible to resolve, no ma
 
 **The application implements an algorithm that determines whether the position of numbers can be  solved or not**
 
+![image](https://github.com/azics/15-gem/assets/75113852/8d8e19be-cca7-4154-adef-646fc91aeb1b)
 
